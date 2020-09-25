@@ -1,0 +1,12 @@
+.home {
+    background:url(../../Images/Image/Rectangle\ 1.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    position: relative;
+    height:100vh;
+}
+
+.btn {
+    background-color: #F9A617!important;
+}
