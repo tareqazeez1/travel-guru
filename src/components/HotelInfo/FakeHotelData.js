@@ -45,4 +45,4 @@ const FakeHotelData = [
     }
 ]
 
-export default HotelData;
+export default FakeHotelData;

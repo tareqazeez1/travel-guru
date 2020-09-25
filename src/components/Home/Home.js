@@ -25,6 +25,7 @@ const Home = () => {
                     <Link className='navBar ml-5' to="contact">Contact</Link>
                     <Link className='navBar ml-5' to="about">About</Link>
                     <Link to='/login'><Button className='button-login'>Login</Button></Link>
+                    
                 </Navbar.Collapse>
             </Navbar>
 
